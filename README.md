@@ -1,7 +1,9 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello World</h1>
-<br />
-I'm a second year Computer Science Student at the University of Jordan.
+<br>
 
+<h3 align="center">
+I'm a second year Computer Science Student at the University of Jordan.
+</h3>
 <br>
 
 # ✉️  Connect with me

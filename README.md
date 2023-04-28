@@ -42,7 +42,8 @@ I'm a second year Computer Science Student at the University of Jordan.
  <br>
  [![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
  <br>
- [![My Skills](https://skillicons.dev/icons?i=mysql,visualstudio,vscode,git,github&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=mysql,visualstudio,vscode,git,github,ai&theme=light)](https://skillicons.dev)
+ 
   
 </div>
 

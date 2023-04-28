@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 
 <br />
 
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="310" /> 
+
 A second year Computer Science Student at the University of Jordan
 
-
-- 📫 Reach me at **ahmuhaisen03@gmail.com**
 
 
 

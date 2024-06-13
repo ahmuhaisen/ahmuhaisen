@@ -13,7 +13,7 @@
 <br>
 <div style="display: flex; align-items: center;">
 
- [![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,net&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cpp,cs,net&theme=light)](https://skillicons.dev)
  <br>
  [![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
  <br>

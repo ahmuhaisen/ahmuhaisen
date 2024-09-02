@@ -16,6 +16,6 @@
  <br>
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,bootstrap&theme=light)](https://skillicons.dev)
  <br>
- [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,github&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github&theme=light)](https://skillicons.dev)
   
 </div>
